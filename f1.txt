@@ -1,2 +1,2 @@
 Hello World
-This is dev 1 entering the changes
+This is dev 1 entering the change
