@@ -1,3 +1,4 @@
 Hello World
-This is dev 1 entering the change
-This text have later added by dev 1 and merge request to master
+
+these are changes by dev 2
+
